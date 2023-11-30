@@ -1,0 +1,51 @@
+# Arquivos de Byte Python
+__pycache__/
+
+# Ambientes virtuais (geralmente nomeados 'venv', 'env', '.env', 'virtualenv', 'venv3', etc.)
+venv/
+env/
+*.pyc
+*.pyo
+*.pyd
+
+# Arquivos de configuração
+*.pyc
+*.pyo
+.DS_Store
+.env
+
+# Logs e saídas
+*.log
+*.out
+
+# Diretório de build
+build/
+dist/
+
+# Arquivos temporários
+*.tmp
+
+# Dependências e diretórios de instalação
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+
+# Arquivos de cache e dados temporários
+*.db
+*.sqlite3
+*.sql
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+venv/
+env/
+*.pyc
+*.pyo
+*.pyd
+
+# Arquivos de Byte Python
+__pycache__/
